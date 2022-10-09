@@ -1,3 +1,4 @@
+//BASIC SEQUENCES
 //2) Write a program that reads a person's name and displays a welcome message.
 //        welcome to her:
 //        Ex:

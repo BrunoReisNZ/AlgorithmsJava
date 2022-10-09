@@ -1,9 +1,9 @@
+//BASIC SEQUENCES
 //16) [CHALLENGE]
 // Write a program to calculate the reduction in the lifetime of a smoker.
 // Ask how many cigarettes he smoked per day and how many years he has smoked.
 // Assume that a smoker loses 10 minutes of life with each cigarette.
 // Calculate how many days of life a smoker will lose and display the total in days.
-
 
 package Java.Algorithms;
 import java.util.Scanner;

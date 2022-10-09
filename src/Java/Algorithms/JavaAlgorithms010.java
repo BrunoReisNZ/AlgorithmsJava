@@ -1,3 +1,4 @@
+//BASIC SEQUENCES
 //10) Write an algorithm that reads the width and height of a wall, calculates and
 //        show the area to be painted and the amount of paint needed for the job,
 //        knowing that each liter of paint paints an area of 2 square meters.

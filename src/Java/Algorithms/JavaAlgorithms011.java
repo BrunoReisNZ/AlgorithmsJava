@@ -1,8 +1,8 @@
+//BASIC SEQUENCES
 //11) Develop a logic that reads the values of A, B, and C from an equation of the
 //        second degree and show the value of Delta.
 
 //delta = b2 - 4ac
-
 
 package Java.Algorithms;
 

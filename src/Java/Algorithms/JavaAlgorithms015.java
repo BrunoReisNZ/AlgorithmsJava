@@ -1,6 +1,6 @@
+//BASIC SEQUENCES
 //15) Create a program that reads the number of days worked in a month and displays an employee's salary,
 // knowing that he works 8 hours a day and earns R$25 per hour worked.
-
 
 package Java.Algorithms;
 import java.util.Scanner;

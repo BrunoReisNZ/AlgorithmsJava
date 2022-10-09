@@ -1,3 +1,4 @@
+//BASIC SEQUENCES
 //14) The car rental company needs your help to charge for their services.
 //Write a program that asks the number of kilometers traveled by a rented car
 //and the number of days for which it was rented. Calculate the total price to pay,

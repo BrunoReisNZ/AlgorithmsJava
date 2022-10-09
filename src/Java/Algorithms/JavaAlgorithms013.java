@@ -1,3 +1,4 @@
+//BASIC SEQUENCES
 //13) Make an algorithm that reads an employee's salary, calculates and displays his new salary, with a 15% increase.
 
 package Java.Algorithms;

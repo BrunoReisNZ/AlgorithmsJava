@@ -1,3 +1,4 @@
+//BASIC SEQUENCES
 //8) Develop a program that reads a distance in meters and displays the values relative to other measures.
 //        Ex:
 //        Enter a distance in meters: 185.72

@@ -1,3 +1,4 @@
+//BASIC SEQUENCES
 //3) Create a program that reads an employee's name and salary, showing in the
 //        end a message.
 //        Ex:

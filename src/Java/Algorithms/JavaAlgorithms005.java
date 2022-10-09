@@ -1,3 +1,4 @@
+//BASIC SEQUENCES
 //5) Make a program that reads a student's two grades in a subject and shows
 //        your average in the subject on the screen.
 //        Ex:
@@ -5,10 +6,7 @@
 //        Grade 2: 8.5
 //        The average between 4.5 and 8.5 is equal to 6.5
 
-
 package Java.Algorithms;
-
-import org.w3c.dom.ls.LSOutput;
 
 import java.util.Scanner;
 

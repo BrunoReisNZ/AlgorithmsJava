@@ -1,10 +1,9 @@
+//BASIC SEQUENCES
 //7) Create an algorithm that reads a real number and displays its double and its third part.
 //        Ex:
 //        Enter a number: 3.5
 //        Twice 3.5 is 7.0
 //        The third part of 3.5 is 1.16666
-
-
 
 package Java.Algorithms;
 

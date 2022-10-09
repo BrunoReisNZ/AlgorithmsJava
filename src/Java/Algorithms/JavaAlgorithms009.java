@@ -1,3 +1,4 @@
+//BASIC SEQUENCES
 //9) Make an algorithm that reads how much money a person has in their wallet (in NZD)
 //        and show how many U$ dollars she can buy. Consider US$1.00 = NZ$ 1.7.
 
